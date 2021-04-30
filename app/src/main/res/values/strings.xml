@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-com Dummy</string>
+    <string name="select_image">Select Image</string>
+    <string name="submit">Submit</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_price">Enter price</string>
+    <string name="enter_detail">Enter detail</string>
+    <string name="Rupees">₹ </string>
+    <string name="add_product">Add Product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="product_image">Product Image</string>
+    <string name="connection_msg">Check your Internet connection.</string>
+</resources>
